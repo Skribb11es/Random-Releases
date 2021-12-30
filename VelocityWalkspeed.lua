@@ -1,3 +1,5 @@
+local walkSpeed = 100
+
 local UIS = game:GetService("UserInputService")
 local RS = game:GetService("RunService")
 local W, A, S, D
